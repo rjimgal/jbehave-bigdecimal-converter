@@ -1,6 +1,6 @@
 # jbehave-bigdecimal-converter
 
-This maven project demonstrates the possible bad usages that BigDecimal (NumericConverter) JBehave allows.
+This maven project demonstrates the possible bad usages that BigDecimal (NumberConverter) JBehave allows.
 
 ## Run using Maven
 
